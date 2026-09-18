@@ -1,5 +1,6 @@
 # 💫 About Me:
-Im student of SY Bsc Data Science<br>Im currently studying Python<br>
+STUDENT
+T.Y. Bsc Data Science<br>
 
 
 ## 🌐 Socials:
